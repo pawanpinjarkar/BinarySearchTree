@@ -1,0 +1,10 @@
+Implement a Binary Search Tree data structure which supports the following queries:
+• insert(item) - Inserts item into the tree.
+• contains(item) - Returns True if item is in the tree, otherwise False.
+• print() - Prints elements of the tree inorder. (python users should change the name of this function to something else)
+• size() - Returns the number of nodes in the tree.
+• smallest() - Returns the smallest element in the tree.
+• largest() - Returns the largest element in the tree.
+Discuss the Best and Worst case time and space complexities of all the queries.
+
+2. UsingthepreviouslyconstructedBSTclass,writeafunctiongreaterSumTree() which transforms the tree such that each node contains sum of all nodes greater than that node. Analyze its time and space complexities. In addition, call print() on the tree before and after you perform greaterSumTree() and include it in the discussion.
